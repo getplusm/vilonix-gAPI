@@ -1,0 +1,10 @@
+name: mGAPI
+main: plusm.vilonix.gapi.loader.DartaAPI
+version: "1.0"
+author: "plusm"
+depend:
+  - mAPI
+  - PlaceholderAPI
+loadbefore:
+  - mAPI
+  - PlaceholderAPI

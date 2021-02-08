@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/DonateCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/GiveKeyCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/GiveMoneyCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/HelpCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/LevelCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/ListCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/MemoryCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/commands/RulesCommand.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/donatemenu/DonateMenuListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/donatemenu/FastMessage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/donatemenu/guis/FastMessageGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/donatemenu/guis/GlowingGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/donatemenu/guis/JoinMessageGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/donatemenu/guis/MainDonateMenuGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/functions/CheckAfk.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/guis/CustomItems.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/guis/basic/DonateGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/guis/basic/RewardHelpGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/listeners/ChatListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/listeners/GamerListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/listeners/NetworkingListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/loader/DartaAPI.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/loader/PublicApiLoader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/module/achievement/gui/AchievementGui.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/utils/DListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/utils/core/CoreUtil.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/utils/core/PlayerUtil.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/plusm/vilonix/gapi/utils/games/TitleUtil.java" charset="windows-1251" />
+  </component>
+</project>

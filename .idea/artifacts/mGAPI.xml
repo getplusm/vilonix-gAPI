@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mGAPI">
+    <output-path>E:/TEST/TestBukkit #0 Vilonix/plugins</output-path>
+    <root id="archive" name="vilonix-gAPI.jar">
+      <element id="module-output" name="vilonix-gAPI" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
